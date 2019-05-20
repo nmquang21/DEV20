@@ -13,5 +13,5 @@ app.post("/register",function (req, res) {
     res.send("INFOR: Fullname: "+fullname+" username: "+username+" Password: "+password);
 });
 app.listen(port, function () {
-    console.log("Hello World");
+    console.log("Nguyen");
 })
