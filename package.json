@@ -9,6 +9,8 @@
   "author": "Quang",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.0"
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.10"
   }
 }
